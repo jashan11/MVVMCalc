@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKsaMHs6toOkNm6Ew0VVRaBgY5MEix0+bnQnKHXTuFlyMsJIr7welk7JcRo/0BSAWWhjB+dCKsc6MahH2hF2xg==",
+  "success": true,
+  "projectFilePath": "/Users/puneadmin/Projects/MyCalc/MyCalc/MyCalc.csproj",
+  "expectedPackageFiles": [
+    "/Users/puneadmin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/puneadmin/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/puneadmin/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/puneadmin/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/puneadmin/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

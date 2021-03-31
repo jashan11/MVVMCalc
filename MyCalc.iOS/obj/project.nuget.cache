@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2AAUNnNKYzt6qK4ToADRDl1iRfQFsx9BAZV+a1zZQA0LMdgGoYKWBnIg17hP7GtfykfrnF/8JCIWZFX9IbB8g==",
+  "success": true,
+  "projectFilePath": "/Users/puneadmin/Projects/MyCalc/MyCalc.iOS/MyCalc.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/puneadmin/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/puneadmin/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/puneadmin/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
